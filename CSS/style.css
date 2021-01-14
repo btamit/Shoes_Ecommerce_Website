@@ -1,0 +1,126 @@
+header{
+    background-color:#FFF9F4;
+}
+.penguin img{
+    height: 40px;
+}
+.head_right{
+    padding: 105px;
+}
+.head_right button{
+    font-family: 'Roboto', sans-serif;
+}
+.head_right h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #FA804C;
+}
+.head_right p{
+    color: #3E3E3E;
+    font-size: 16px;
+
+}
+span{
+    color: #363958;
+}
+button.my_bttn {
+    width: 154px;
+    height: 52px;
+    border: blue;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+    color: white;
+}
+.my_shop img{
+    background-color: #gray;
+}
+.my_cart{
+    color: white;
+    width: 20px;
+    height: 30px;
+}
+.my_bttn span{
+    color: white;
+}
+.my_bttn img{
+    height: 27px;
+}
+.shoe{
+    padding-bottom: 50px;
+}
+ .my_shoes img {
+    background-color: #F1F1F1;
+    padding: 10px;
+    border-radius: 25px !important;
+} 
+.prime{
+    margin-top: 50px;
+}
+h2{
+    font-family: Bebas Neue;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    color: #363958;
+}
+h4{
+    color:#363958;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+}
+h3{
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 36px;
+    color: #FA804C;
+}
+
+.shoping_shoes{
+    border: none;
+    margin-right: 15px;
+    box-shadow: gray;
+}
+.service img {
+    width: 72px;
+    height: 77px;
+}
+.service{
+    margin-right: 57px;
+}
+h5{
+    color:#363958;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+.services{
+    margin-bottom: 15px;
+}
+.servicing img {
+    width: 500px;
+    height: 400px;
+    margin-left: 54px;
+}
+.icon{
+    color: goldenrod;
+}
+.watch{
+    color: gray
+}
+.rattings {
+    background-color: rgb(220 212 212);
+    width: 100px;
+    height: 34px;
+    border-radius: 20px;
+    padding: 3px 5px;
+}
+.icon2{
+    margin-right: 50px;
+}
+.watch0{
+    margin-right:5px;
+}
+
