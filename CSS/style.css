@@ -24,8 +24,8 @@ span{
     color: #363958;
 }
 button.my_bttn {
-    width: 154px;
-    height: 52px;
+    width: 128px;
+    height: 46px;
     border: blue;
     background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
     border-radius: 10px;
@@ -100,9 +100,9 @@ h5{
     margin-bottom: 15px;
 }
 .servicing img {
-    width: 500px;
-    height: 400px;
-    margin-left: 54px;
+    width: 450px;
+    height: 393px;
+    margin-left: 8px;
 }
 .icon{
     color: goldenrod;
@@ -112,10 +112,10 @@ h5{
 }
 .rattings {
     background-color: rgb(220 212 212);
-    width: 100px;
-    height: 34px;
+    width: 97px;
+    height: 30px;
     border-radius: 20px;
-    padding: 3px 5px;
+    padding: 2px 4px;
 }
 .icon2{
     margin-right: 50px;
